@@ -85,6 +85,7 @@ ex) [BOJ] 2557 Hello World
 ```
 
 > Commit 위치: algorithm_study/Algorithm/{월}/{이름}/{문제번호.md}
+<br>
 
 ## 🌱 Code of Conduct
 - 알고리즘 문제 해결에만 집중하지 않고 알고리즘의 원리와 패턴을 익히기
