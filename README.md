@@ -65,15 +65,16 @@
 
 ## ✏️ 스터디 진행
 - 매주 정해진 알고리즘 문제들을 푼 뒤, 오프라인 스터디를 통해 문제 풀이 방법에 대해 공부합니다.
-- 알고리즘 유형 학습 후, 삼성 SW 역량 기출 문제, 삼성 A형 기출 문제 등을 풀며 공부합니다.
+- 매주 **[DFS / BFS / 백트래킹 / 구현 / 완전탐색 유형]** 3문제, **[삼성 SW 역량 테스트 기출]** 3문제를 풀이합니다.
 - 스터디 위치: 유성온천역
 - 스터디 시간: 매주 목요일 19시 - 22시
 <br>
 
 ## 📄 일정표
-주차|폴더명|유형|문제1|문제2|문제3|진행 현황
-|:---:|:---:|:---:|---|---|---|:---:|
-|1주차|January|DFS/BFS|[신기한 소수](https://www.acmicpc.net/problem/2023)|[토마토](https://www.acmicpc.net/problem/7576)|[알파벳](https://www.acmicpc.net/problem/1987)|``진행중``|
+주차|폴더명|유형 문제1|유형 문제2|유형 문제3|기출 문제1|기출 문제2|기출 문제3|진행 현황
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1주차|January|[신기한 소수](https://www.acmicpc.net/problem/2023)|[토마토](https://www.acmicpc.net/problem/7576)|[알파벳](https://www.acmicpc.net/problem/1987)| | | |``완료``|
+|2주차|January|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|[경비원](https://www.acmicpc.net/problem/2564)|[빙산](https://www.acmicpc.net/problem/2573)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[테트로미노](https://www.acmicpc.net/problem/14500)|``진행중``|
 <br>
 
 ## 📌 Commit 컨벤션
